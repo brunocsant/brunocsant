@@ -12,8 +12,6 @@ Atualmente estou aprofundando meus conhecimentos em Java e construindo projetos 
 - Programação Orientada a Objetos (POO)
 - Collections
 - Git & GitHub
-- SQL
-- Spring Boot
 
 ## 📚 Atualmente estudando
 
