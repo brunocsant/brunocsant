@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Bruno Santana! 👋
 
-<!--
-**brunocsant/brunocsant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java Developer em formação**, com foco em desenvolvimento backend.
 
-Here are some ideas to get you started:
+Atualmente estou aprofundando meus conhecimentos em Java e construindo projetos práticos para desenvolver minhas habilidades em programação e Programação Orientada a Objetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e conhecimentos
+
+- Java
+- Programação Orientada a Objetos (POO)
+- Collections
+- Git & GitHub
+- SQL
+- Spring Boot
+
+## 📚 Atualmente estudando
+
+- Java
+- Spring Boot
+- SQL
+- Desenvolvimento de APIs REST
+
+## 💻 Projetos
+
+🔹 **Controle de Compras no Cartão de Crédito**  
+Aplicação Java para controle de compras, validação de saldo e ordenação de transações.
+
+🔹 **Exercícios de Programação Orientada a Objetos**  
+Projetos desenvolvidos para praticar conceitos como encapsulamento, herança, polimorfismo e Collections.
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade como **Desenvolvedor Java Júnior**, onde possa aplicar meus conhecimentos, contribuir com a equipe e continuar evoluindo profissionalmente na área de desenvolvimento backend.
+
+---
+
+📫 **GitHub:** [brunocsant](https://github.com/brunocsant)
