@@ -8,7 +8,6 @@ Atualmente estou aprofundando meus conhecimentos em Java e construindo projetos 
 
 ## 🚀 Tecnologias e conhecimentos
 
-- Java
 - Programação Orientada a Objetos (POO)
 - Collections
 - Git & GitHub
