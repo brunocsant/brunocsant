@@ -8,11 +8,14 @@ Atualmente estou aprofundando meus conhecimentos em Java e construindo projetos 
 
 ## 🚀 Tecnologias e conhecimentos
 
+- Java
 - Programação Orientada a Objetos (POO)
 - Collections
-- API
+- APIs REST
+- JSON
+- Gson
 - Git & GitHub
-
+  
 ## 📚 Atualmente estudando
 
 - Java
