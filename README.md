@@ -10,6 +10,7 @@ Atualmente estou aprofundando meus conhecimentos em Java e construindo projetos 
 
 - Programação Orientada a Objetos (POO)
 - Collections
+- API
 - Git & GitHub
 
 ## 📚 Atualmente estudando
